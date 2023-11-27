@@ -1,4 +1,6 @@
 # Age Calculator with Theme Selection
+![image](https://github.com/spragginsdesigns/Age-Calculator/assets/43624199/d3eeb7fb-7b4a-40b0-9c3b-7bd6af0a9be5)
+
 
 ## Overview
 The Age Calculator is a user-friendly Python application designed to calculate a person's current age based on their birth date. Featuring an elegant graphical user interface (GUI) powered by Tkinter and ttkthemes, the application offers a selection of visual themes, enhancing the user experience with customizable aesthetics.
